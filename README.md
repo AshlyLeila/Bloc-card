@@ -59,3 +59,4 @@ What I had to do on my own: Checking the measurements in Figma and testing every
 - Website - [Ashly](https://portfolio-blush-gamma-73.vercel.app/)
 - Frontend Mentor - [@Ashlyleila](https://www.frontendmentor.io/profile/AshlyLeila)
 
+# Bloc-card
